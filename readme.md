@@ -115,7 +115,7 @@ Network access is required at runtime for topic search, research scraping, LLM c
 
 ```bash
 git clone https://github.com/bravecoconut/rage.git
-cd noname1
+cd rage
 ```
 
 ### 2. Create and activate a virtual environment
