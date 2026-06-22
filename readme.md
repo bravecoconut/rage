@@ -21,6 +21,7 @@ Automated post generator for content creation platforms. RAGE discovers topics, 
 - [Project Structure](#project-structure)
 - [Testing](#testing)
 - [Troubleshooting](#troubleshooting)
+- [Generated Contents](#generated-contents)
 
 ---
 
