@@ -254,7 +254,6 @@ Tests cover server error handling and SSE event parsing without invoking the ful
 ![result image 1](assets/1782086410.png)
 ![result image 1](assets/1781989243.png)
 ![result image 1](assets/1781990047.png)
-![result image 1](assets/1781990460.png)
 ![result image 1](assets/1781990557.png)
 ![result image 1](assets/1781994872.png)
 ![result image 1](assets/1782083697.png)
